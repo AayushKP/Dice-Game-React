@@ -69,7 +69,7 @@ Error generating stack: `+o.message+`
     transition: 0.3s background ease-in;
     font-size: 16px;
   }
-`,$m=({toggle:e})=>R.jsxs(Lm,{children:[R.jsx("div",{children:R.jsx("img",{src:"/images/dices.png",alt:"dices"})}),R.jsxs("div",{className:"content",children:[R.jsx("h1",{children:"DICE GAME"}),R.jsx(nd,{onClick:e,children:"Play Now"})]})]}),Lm=qe.div`
+`,$m=({toggle:e})=>R.jsxs(Lm,{children:[R.jsx("div",{children:R.jsx("img",{src:"./images/dices.png",alt:"dices"})}),R.jsxs("div",{className:"content",children:[R.jsx("h1",{children:"DICE GAME"}),R.jsx(nd,{onClick:e,children:"Play Now"})]})]}),Lm=qe.div`
   max-width: 1180px;
   margin: 0 auto;
   display: flex;
